@@ -5,8 +5,6 @@ Code for working with the dataset used for the [Semantic Segmentation for Indian
 - http://cvit.iiit.ac.in/scene-understanding-challenge-2018/ 
 - http://cvit.iiit.ac.in/autonue2018/
 
-**For using first add helpers/ to $PYTHONPATH**
-
 **The code has been tested on python 3.6.4**
 
 ## Dataset Structure 
