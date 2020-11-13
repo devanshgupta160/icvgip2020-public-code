@@ -1,4 +1,4 @@
-# Scene Understanding Challenge for Autonomous Navigation in Unstructured Environments
+# Semantic Segmentation for Indian Driving Scenes - ICVGIP 2020
 
 Code for working with the dataset used for the [Semantic Segmentation for Indian Driving Scenes](http://cvit.iiit.ac.in/scene-understanding-challenge-2018/). For details of getting the dataset and updates see:
 
