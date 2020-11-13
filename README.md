@@ -18,7 +18,7 @@ leftImg8bit/{split}/{drive_no}/{img_id}_leftImg8bit.png for image frames
 ```
 ### Semantic Segmentation
 
-Furthermore for training, label masks needs to be generated as described bellow resulting in the following files:
+Furthermore for training, label masks needs to be generated as described below resulting in the following files:
 ```
 gtFine/{split}/{drive_no}/{img_id}_gtFine_labellevel3Ids.png
 ```
