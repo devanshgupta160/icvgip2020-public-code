@@ -27,7 +27,7 @@ gtFine/{split}/{drive_no}/{img_id}_gtFine_labellevel3Ids.png
 
 See helpers/anue_labels.py
 
-### Generate Label Masks (for training/evaluation) (Semantic/Instance/Panoptic Segmentation)
+### Generate Label Masks for Semantic Segmentation(for training/evaluation)
 
 For the semantic segmentation challenge, masks should be generated using IDTYPE of level3Id and used for training models (similar to trainId in cityscapes). This can be done by the command:
 ```bash
@@ -55,9 +55,7 @@ python viewer/viewer.py ---datadir $ANUE
 TODO: Make the color map more sensible.
 
 
-## Evaluation
-
-### Semantic Segmentation
+## Evaluation of Semantic Segmentation
 
 First generate labels masks with level3Ids as described before. Then
 ```bash
